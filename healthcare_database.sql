@@ -1,5 +1,4 @@
 
--- Creating the tables from the ERD
 
 CREATE TABLE geographical_location (
     Location_ID INT PRIMARY KEY,
